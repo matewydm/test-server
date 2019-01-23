@@ -1,0 +1,8 @@
+include 'dns-jpa'
+include 'dns-app'
+include 'dns-rest-api'
+include 'dns-db'
+include 'dns-service'
+include 'dns-model'
+include 'dns-test'
+
